@@ -4,7 +4,6 @@ MK-Stream
 
 Eine Timeline für die Model-Kartei auf Smartphones.
 
-![[mk-stream.netaction.de](https://raw.githubusercontent.com/ibanknatoPrad/mk-stream/master/MARTHAII.png)](https://www.model-kartei.de/portfolios/model/588262/alex-mars/galerien/#start)
 
 ![mk-stream.netaction.de](https://raw.githubusercontent.com/ibanknatoPrad/mk-stream/master/MARTHAII.png)
 (https://www.model-kartei.de/portfolios/model/588262/alex-mars/galerien/#start)
