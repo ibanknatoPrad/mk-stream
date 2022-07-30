@@ -6,8 +6,8 @@ Eine Timeline für die Model-Kartei auf Smartphones.
 
 ![[mk-stream.netaction.de](https://raw.githubusercontent.com/ibanknatoPrad/mk-stream/master/MARTHAII.png)](https://www.model-kartei.de/portfolios/model/588262/alex-mars/galerien/#start)
 
-![ReactorForge Control Board - ReactorCore](https://raw.githubusercontent.com/ibanknatoPrad/mk-stream/master/MARTHAII.png)
-([photo: assembly of the beta ReactorCore, ReactorForge CriticalMass control board](https://www.model-kartei.de/portfolios/model/588262/alex-mars/galerien/#start))
+![mk-stream.netaction.de](https://raw.githubusercontent.com/ibanknatoPrad/mk-stream/master/MARTHAII.png)
+(https://www.model-kartei.de/portfolios/model/588262/alex-mars/galerien/#start)
 
 Funktionen
 ----------
